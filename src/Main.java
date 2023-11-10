@@ -3,7 +3,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 
-
 public class Main {
     public static void main(String[] args) {
         double number = 0;
@@ -53,8 +52,8 @@ public class Main {
         System.out.println("\u001B[1mСредняя оценка всех участников: \u001B[0m" + sum / number);
 
 
-        }
     }
+}
 
 
 
